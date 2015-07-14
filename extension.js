@@ -109,7 +109,7 @@
         youtubeLink: "https://www.youtube.com/channel/UC-oWEWJDPAYpqqYVKWxSoGw",
         website: "http://arkhamnetwork.org/",
         intervalMessages: [],
-        messageInterval: 2,
+        messageInterval: 3,
         songstats: true,
         commandLiteral: "!",
         blacklists: {
