@@ -84,7 +84,7 @@
         autodisable: true,
         commandCooldown: 30,
         usercommandsEnabled: true,
-        skipPosition: 3,
+        skipPosition: false,
         skipReasons: [
             ["theme", "This song does not fit the room theme. "],
             ["op", "This song is on the OP list. "],
